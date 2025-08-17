@@ -26,7 +26,7 @@
 		- [[测试访问首页]]
 		- [[测试访问指定页面]]
 	- [[SpringMVC 请求处理底层原理]]
-	- [[总结]]
+	- [[总结 SpringMVC 简介]]
 - **@RequestMapping 注解**
 	- [[@RequestMapping 功能]]
 	- [[@RequestMapping 位置]]
@@ -77,5 +77,13 @@
 	- [[向 session 域共享数据]]
 	- [[向 application 域共享数据]]
 	- [[总结域对象共享数据]]
+- [[SpringMVC 视图]]
+	- [[ThymeleafView]]
+	- [[转发视图]]
+	- [[重定向视图]]
+	- [[转发和重定向的区别]]
+	- [[视图控制器 view-controller]]
+	- [[InternalResourceViewResolver]]
+	- [[总结 SpringMVC 视图]]
 
 ---
