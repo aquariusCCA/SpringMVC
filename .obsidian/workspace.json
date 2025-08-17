@@ -20,6 +20,44 @@
               "icon": "lucide-file",
               "title": "Spring MVC 課程描述"
             }
+          },
+          {
+            "id": "18efcb5a45205591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "获取请求参数/通过实体类获取.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "通过实体类获取"
+            }
+          },
+          {
+            "id": "c8507fa82a554290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "获取请求参数/总结获取请求参数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "总结获取请求参数"
+            }
+          },
+          {
+            "id": "83c36a1e6bc9eb6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
         ]
       }
@@ -183,42 +221,45 @@
   },
   "active": "8cecbcdf3e059c0a",
   "lastOpenFiles": [
-    "@RequestMapping 注解/@RequestMapping  总结.md",
+    "获取请求参数/总结获取请求参数.md",
+    "获取请求参数/通过实体类获取.md",
     "Spring MVC 課程描述.md",
+    "获取请求参数/通过控制器方法形参获取.md",
+    "获取请求参数/处理乱码问题.md",
+    "获取请求参数/附件/1755429743140_p4hFei2JLC.png",
+    "获取请求参数/附件/1755429743133_HVS6GobGS4.png",
+    "获取请求参数/附件/1755429045113_aXTW2zT0xd.png",
+    "获取请求参数/附件/1755429045113_4hheBBCXqF.png",
+    "获取请求参数/@CookieValue.md",
+    "获取请求参数/附件/1755429045113_bQ0nzbKTsG.png",
+    "获取请求参数/附件/1755429045113_aPbIdfuKxE.png",
+    "获取请求参数/附件/1755429045106_2hjb6rGidz.png",
+    "获取请求参数/@RequestHeader.md",
+    "获取请求参数/@RequestParam 的 defaultValue.md",
+    "获取请求参数/@RequestParam.md",
+    "获取请求参数/@RequestParam 的 required.md",
+    "获取请求参数/附件/1755428033319_fczXfz3dyp.png",
+    "获取请求参数/附件/1755428033319_vVYATb4UyW.png",
+    "获取请求参数/附件/1755428033319_kx46NWOYq9.png",
+    "获取请求参数/同名形参.md",
+    "获取请求参数/同名形参多值.md",
+    "获取请求参数/通过 Servlet API 获取.md",
+    "获取请求参数/附件",
+    "获取请求参数/未命名檔案夾",
+    "获取请求参数",
+    "@RequestMapping 注解/@RequestMapping  总结.md",
     "@RequestMapping 注解/params 属性.md",
     "@RequestMapping 注解/@RequestMapping 的 method 属性.md",
     "@RequestMapping 注解/@RequestMapping 的 value 属性.md",
     "@RequestMapping 注解/无 method 时匹配哪些请求方式？.md",
     "@RequestMapping 注解/路径中的占位符.md",
     "@RequestMapping 注解/占位符为空值或空格.md",
-    "@RequestMapping 注解/附件/1755426725863_OYryWIPZWs.gif",
     "@RequestMapping 注解/不设置占位符.md",
-    "@RequestMapping 注解/附件/1755426725863_Zm3Vrc6nwt.gif",
     "@RequestMapping 注解/带注解形参.md",
-    "@RequestMapping 注解/附件/1755426725863_drOwF3S7GC.gif",
-    "@RequestMapping 注解/附件/1755426725856_E8t3Bjeto8.png",
     "@RequestMapping 注解/无注解形参.md",
-    "@RequestMapping 注解/附件/1755425800122_q4aFG6ylol.gif",
     "@RequestMapping 注解/@RequestMapping 位置.md",
     "@RequestMapping 注解/Ant 风格路径.md",
     "@RequestMapping 注解/**.md",
-    "@RequestMapping 注解/附件/1755425800122_7Gu0xCUHPC.gif",
-    "@RequestMapping 注解/附件/1755425800122_du99cbU80t.gif",
-    "@RequestMapping 注解/*.md",
-    "@RequestMapping 注解/附件/1755425800122_YkNFV36N89.gif",
-    "@RequestMapping 注解/?.md",
-    "@RequestMapping 注解/headers 属性.md",
-    "@RequestMapping 注解/附件/1755425800115_XloCHIQCip.gif",
-    "@RequestMapping 注解/附件/1755424961425_RWJa8WydLy.gif",
-    "@RequestMapping 注解/param!=value.md",
-    "@RequestMapping 注解/param=value.md",
-    "@RequestMapping 注解/!param.md",
-    "@RequestMapping 注解/param.md",
-    "@RequestMapping 注解/form 表单支持哪些请求方式？.md",
-    "@RequestMapping 注解/派生注解.md",
-    "@RequestMapping 注解/不满足 method 会怎样？.md",
-    "SpringMVC 简介/测试访问指定页面.md",
-    "@RequestMapping 注解/@RequestMapping 功能.md",
     "@RequestMapping 注解/附件",
     "@RequestMapping 注解",
     "SpringMVC 简介/附件",
@@ -226,9 +267,6 @@
     "数据校验",
     "资源操作/附件",
     "资源操作/未命名檔案夾",
-    "国际化 i18n/附件",
-    "国际化 i18n/未命名檔案夾",
-    "国际化 i18n",
     "未命名 2.canvas",
     "未命名.canvas"
   ]

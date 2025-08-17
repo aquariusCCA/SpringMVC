@@ -52,5 +52,18 @@
 		- [[不设置占位符]]
 		- [[占位符为空值或空格]]
 	- [[@RequestMapping  总结]]
+- **获取请求参数**
+	- [[通过 Servlet API 获取]]
+	- [[通过控制器方法形参获取]]
+		- [[同名形参]]
+		- [[同名形参多值]]
+	- [[@RequestParam]]
+		- [[@RequestParam 的 required]]
+		- [[@RequestParam 的 defaultValue]]
+	- [[@RequestHeader]]
+	- [[@CookieValue]]
+	- [[通过实体类获取]]
+	- [[处理乱码问题]]
+	- [[总结获取请求参数]]
 
 ---
