@@ -65,5 +65,17 @@
 	- [[通过实体类获取]]
 	- [[处理乱码问题]]
 	- [[总结获取请求参数]]
+- **域对象共享数据**
+	- [[三种域对象]]
+	- **向 request 域对象共享数据**
+		- [[通过 Servlet API]]
+		- [[通过 ModelAndView]]
+		- [[通过 Model]]
+		- [[通过 Map]]
+		- [[通过 ModelMap]]
+		- [[Model、ModelMap 和 Map]]
+	- [[向 session 域共享数据]]
+	- [[向 application 域共享数据]]
+	- [[总结域对象共享数据]]
 
 ---
