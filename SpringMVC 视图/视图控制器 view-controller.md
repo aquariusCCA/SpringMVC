@@ -39,8 +39,8 @@ public String view() {
 <!--
     当SpringMVC中设置任何一个view-controller时，其他控制器中的请求映射将全部失效，
     此时需要在SpringMVC的核心配置文件中设置开启mvc注解驱动的标签：
-    -->
-<!--开启 MVC 的注解驱动-->
+-->
+<!-- 开启 MVC 的注解驱动 -->
 <mvc:annotation-driven/>
 ```
 
