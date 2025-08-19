@@ -22,49 +22,20 @@
             }
           },
           {
-            "id": "6222d8a2467a2654",
+            "id": "fcd47d53e367f9a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文件上传 從這.md",
+                "file": "完全注解开发/附录：SpringMVC 配置类总览.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件上传 從這"
-            }
-          },
-          {
-            "id": "e559f4b3d944d343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HttpMessageConverter/ResponseEntity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ResponseEntity"
-            }
-          },
-          {
-            "id": "b02a269d8efc8d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HttpMessageConverter/HttpMessageConverter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HttpMessageConverter"
+              "title": "附录：SpringMVC 配置类总览"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文件上传 從這.md",
+                "file": "Spring MVC 課程描述.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文件上传 從這 的大纲"
+              "title": "Spring MVC 課程描述 的大纲"
             }
           },
           {
@@ -224,14 +195,41 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6222d8a2467a2654",
+  "active": "8cecbcdf3e059c0a",
   "lastOpenFiles": [
+    "完全注解开发/附录：SpringMVC 配置类总览.md",
+    "Spring MVC 課程描述.md",
+    "完全注解开发/SpringMVC 配置类.md",
+    "完全注解开发/初始化类.md",
+    "完全注解开发/WebMvcConfigurer.md",
+    "完全注解开发/文件上传解析器.md",
+    "完全注解开发/视图解析器.md",
+    "補充/Spring中对于WebApplicationInitializer的理解.md",
+    "補充/附件/54d0ecb96c182fbab233b14086b99751.png",
+    "補充/附件/5400895be6dbcd68100dd28ec452a1af.png",
+    "補充/附件/7b54f3d0e70938afc51ffa7ffd9750ba.png",
+    "補充/附件",
+    "補充/未命名檔案夾",
+    "完全注解开发/AbstractAnnotationConfigDispatcherServletlnitializer.md",
+    "補充",
+    "完全注解开发",
+    "异常处理/基于配置的异常处理.md",
+    "异常处理/基于注解的异常处理.md",
+    "异常处理/附件/1755525747600_saUtNubhGi.png",
+    "异常处理/附件/1755525747600_ToIbm2tKwn.png",
+    "异常处理/附件/1755525747600_UkTTytoPp8.png",
+    "异常处理/附件",
+    "异常处理/未命名檔案夾",
+    "异常处理",
+    "拦截器/多个拦截器的执行顺序.md",
+    "拦截器/拦截器的配置.md",
+    "拦截器/拦截器的三个抽象方法.md",
+    "拦截器",
+    "HttpMessageConverter/文件上传.md",
     "HttpMessageConverter/附件/1755525747600_Y2LH77FsvG.png",
     "HttpMessageConverter/附件/1755525747593_rKZLrrmcMj.png",
     "HttpMessageConverter/附件/1755508001254_HaJcvlPCN1.gif",
     "HttpMessageConverter/ResponseEntity.md",
-    "文件上传 從這.md",
-    "Spring MVC 課程描述.md",
     "HttpMessageConverter/文件下载.md",
     "HttpMessageConverter/附件/1755508001254_ZGCbQgk2mm.gif",
     "HttpMessageConverter/HttpMessageConverter.md",
@@ -239,39 +237,12 @@
     "HttpMessageConverter/RequestEntity.md",
     "HttpMessageConverter/@RequestBody.md",
     "HttpMessageConverter/@RestController 注解.md",
-    "HttpMessageConverter/附件/1755508001254_jYkCKDScqY.gif",
     "HttpMessageConverter/SpringMVC 处理 AJAX.md",
-    "HttpMessageConverter/附件/1755508001254_IEvNfsbwgc.gif",
     "HttpMessageConverter/SpringMVC 处理 JSON.md",
     "RESTful 案例/RESTful 案例 - 列表功能.md",
     "RESTful 案例/RESTful 案例 - 准备工作.md",
-    "SpringMVC 视图/视图控制器 view-controller.md",
-    "HttpMessageConverter/通过 @ResponseBody 响应 User.md",
-    "HttpMessageConverter/附件/1755508001247_yddq8LAaIs.gif",
-    "HttpMessageConverter/附件/1755507292878_Q4gfcPuv1O.png",
-    "HttpMessageConverter/附件/1755507292878_7lpe4lJEbK.gif",
-    "HttpMessageConverter/通过 @ResponseBody 响应浏览器数据.md",
-    "HttpMessageConverter/附件/1755507292878_CYUT7kAyZj.gif",
-    "HttpMessageConverter/通过 HttpServletResponse 响应浏览器数据.md",
-    "HttpMessageConverter/附件/1755507292878_nyNrjbFY91.gif",
     "HttpMessageConverter/附件",
     "HttpMessageConverter/未命名檔案夾",
-    "HttpMessageConverter",
-    "RESTful 简介/CharacterEncodingFilter 和 HiddenHttpMethodFilter 的配置顺序.md",
-    "RESTful 简介/HiddenHttpMethodFilter：表單啟用 PUT／DELETE 的關鍵.md",
-    "RESTful 简介/使用 RESTful 模拟操作用户资源.md",
-    "RESTful 简介/用户的修改、删除.md",
-    "@RequestMapping 注解/form 表单支持哪些请求方式？.md",
-    "@RequestMapping 注解/无 method 时匹配哪些请求方式？.md",
-    "@RequestMapping 注解/@RequestMapping 的 method 属性.md",
-    "RESTful 简介/用户的查询、添加.md",
-    "RESTful 简介/附件",
-    "RESTful 简介",
-    "RESTful 案例/附件",
-    "RESTful 案例/未命名檔案夾",
-    "RESTful 案例",
-    "SpringMVC 视图/附件",
-    "SpringMVC 视图/未命名檔案夾",
     "未命名 2.canvas",
     "未命名.canvas"
   ]
